@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Anjali Thakur  
+🎯 Entry-Level SAP ABAP Developer | B.Tech CSE (Data Science) | Passionate about SAP Technologies
 
-<!--
-**Anjalithakur44/Anjalithakur44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me  
+- 🌱 Currently learning **SAP ABAP** and its advanced topics (Smartforms, Adobe Forms, BDC, ALE/IDoc).  
+- 💡 Interested in SAP Development, Data Integration, and Performance Optimization.  
+- 📍 Based in Ghaziabad, Uttar Pradesh, India.  
 
-Here are some ideas to get you started:
+## 🧩 SAP ABAP Projects  
+- **Sales Order Management (Module Pool Programming)**  
+  *Created custom screens using Screen Painter (SE51) with Table Controls and Tabs for Sales Orders.*  
+  - **Tech:** ABAP, Data Dictionary, Module Pool, PBO/PAI  
+  - [🔗 View Project](#https://github.com/Anjalithakur44/sap-abap-sales-order-module-pool)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Sales Order Reporting (ABAP OOPS & ALV)**  
+  *Developed interactive ALV reports using OOPs concepts and reusable classes.*  
+  - **Tech:** ABAP OOPS, ALV, Classical/Interactive Reports  
+  -ALVWorks [🔗 View Project](#https://github.com/Anjalithakur44/ALVWorks)
+  -ABAP OOPS [🔗 View Project](#https://github.com/Anjalithakur44/sap_abap_object_oriented)
+
+## 🧠 Skills  
+`SAP ABAP` • `Smartforms` • `Module Pool` • `ALV Reporting` • `OOPs ABAP` • `BDC` • `SQL` • `Excel`  
+
+## 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/anjali-thakur4/) | [Email](mailto:anjali.thakur0904@gmail.com)
+
