@@ -22,5 +22,5 @@
 `SAP ABAP` • `Smartforms` • `Module Pool` • `ALV Reporting` • `OOPs ABAP` • `BDC` • `SQL` • `Excel`  
 
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/anjali-thakur4/) | [Email](mailto:anjali.thakur0904@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anjali-thakur4/) | [Email](anjali.thakur0904@gmail.com)
 
