@@ -4,7 +4,7 @@
 ## 💻 About Me  
 - 🌱 Currently learning **SAP ABAP** and its advanced topics (Smartforms, Adobe Forms, BDC, ALE/IDoc).  
 - 💡 Interested in SAP Development, Data Integration, and Performance Optimization.  
-- 📍 Based in Ghaziabad, Uttar Pradesh, India.  
+- 📍 Based in New Delhi, India.  
 
 ## 🧩 SAP ABAP Projects  
 - **Sales Order Management (Module Pool Programming)**  
