@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Anjali Thakur  
-🎯 Entry-Level SAP ABAP Developer | B.Tech CSE (Data Science) | Passionate about SAP Technologies
+🎯 SAP ABAP Developer | B.Tech CSE (Data Science) | Passionate about SAP Technologies
 
 ## 💻 About Me  
-- 🌱 Currently learning **SAP ABAP** and its advanced topics (Smartforms, Adobe Forms, BDC, ALE/IDoc).  
+- 🌱 Currently learning **SAP ABAP** and its advanced topics (Smartforms, Adobe Forms, BDC).  
 - 💡 Interested in SAP Development, Data Integration, and Performance Optimization.  
 - 📍 Based in New Delhi, India.  
 
